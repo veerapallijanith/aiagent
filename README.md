@@ -221,6 +221,7 @@ if __name__ == "__main__":
     environment.run(steps=10)
     print(environment.status)
     print(agent.performance)
+    
 ## OUTPUT
 
 
